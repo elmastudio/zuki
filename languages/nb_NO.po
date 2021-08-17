@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zuki\n"
+"POT-Creation-Date: 2020-05-26 18:07+0000\n"
+"PO-Revision-Date: 2020-05-26 18:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: functions.php:39
+msgid "small"
+msgstr ""
+
+#: functions.php:40
+msgid "S"
+msgstr ""
+
+#: functions.php:45
+msgid "regular"
+msgstr ""
+
+#: functions.php:46
+msgid "M"
+msgstr ""
+
+#: functions.php:51
+msgid "large"
+msgstr ""
+
+#: functions.php:52
+msgid "L"
+msgstr ""
+
+#: functions.php:57
+msgid "larger"
+msgstr ""
+
+#: functions.php:58
+msgid "XL"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary menu"
+msgstr "Hovedmeny"
+
+#: functions.php:79
+msgid "Header Top menu"
+msgstr "Toppmeny"
+
+#: functions.php:80
+msgid "Footer Social menu"
+msgstr "Bunnmeny Sosial meny"
+
+#. If there are characters in your language that are not
+#. supported by Libre Baskerville or Karla translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:121
+msgctxt "Libre Baskerville: on or off"
+msgid "on"
+msgstr "p&aring;"
+
+#: functions.php:123
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "p&aring;"
+
+#: functions.php:329
+#, php-format
+msgid "%s <span class=\"says\">says</span>"
+msgstr "%s <span class=\"says\">sier</span>"
+
+#. 1: date
+#: functions.php:335
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:347
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar blir vurdert av v&aring; redaksjon"
+
+#: functions.php:351
+msgid "Reply"
+msgstr "Svar"
+
+#: functions.php:362
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+#: functions.php:390
+msgid "Blog - Sidebar"
+msgstr "Blog - Sidebar"
+
+#: functions.php:392
+msgid ""
+"Widgets appear in a right-aligned sidebar on the default blog and on single "
+"posts."
+msgstr ""
+"Widget vises i en h&oslash;yrestilt sidebar i default blog og p&aring; "
+"enkeltinnlegg."
+
+#: functions.php:400
+msgid "Front Page - FullWidth Top"
+msgstr "Forside - FullWidth Top"
+
+#: functions.php:402
+msgid ""
+"Widgets appear in a single-column widget area on the top of the Front Page "
+"(and below the Featured Content slider, if active)."
+msgstr ""
+
+#: functions.php:410
+msgid "Front Page - Post Content 1"
+msgstr "Forside - Innhold fra innlegg 1"
+
+#: functions.php:412
+msgid ""
+"Widgets appear left of Sidebar 1 and below the FullWidth Top widget area. "
+"This widget area is especially designed for the custom Zuki Posts by "
+"Category widgets."
+msgstr ""
+"Widget vises til venstre for Sidebar 1 og under omr&aring;de for FullWidth "
+"Top widgeten. Dette omr&aring;det er spesialtilpasset for Zuki Posts by "
+"Category widgetene."
+
+#: functions.php:420
+msgid "Front Page - Sidebar 1"
+msgstr "Forside - Sidebar 1"
+
+#: functions.php:422
+msgid ""
+"Widgets appear in a right-aligned sidebar area next to the Post Content 1 "
+"widget area."
+msgstr ""
+"Widget vises i et h&oslashyrejustert sidekolonneomr&aring;de ved siden av "
+"Post Content 1 widget omr&aring;det."
+
+#: functions.php:430
+msgid "Front Page - FullWidth Center"
+msgstr "Forside - FullWidth Center"
+
+#: functions.php:432
+msgid ""
+"Widgets will appear in a single-column widget area below the Post Content 1 "
+"and Sidebar 1 widget areas."
+msgstr ""
+"Widget vises i et enkelt kolonneomr&aring;de under Post Content 1 og Sidebar "
+"1 widgetomr&aring;dene."
+
+#: functions.php:440
+msgid "Front Page - Post Content 2"
+msgstr "Forside - Post Content 2"
+
+#: functions.php:442
+msgid ""
+"Widgets appear left of Sidebar 2 and below the FullWidth Center widget area. "
+"This widget area is especially designed for the custom Zuki Posts by "
+"Category widgets."
+msgstr ""
+"Widgetene vises til venstre for Sidebar 2 og under FullWidth Center "
+"widgetomr&aring;det. Dette omr&aring;det er spesialtilpasset for Zuki Posts "
+"by Category widgetene."
+
+#: functions.php:450
+msgid "Front Page - Sidebar 2"
+msgstr "Forside - Sidebar 2"
+
+#: functions.php:452
+msgid ""
+"Widgets appear in a right-aligned sidebar area next to the Post Content 2 "
+"widget area."
+msgstr ""
+"Widgetene vises i en h&oslash;stilt sidekolonne ved siden av Post Content 2 "
+"widegetomr&aring;et."
+
+#: functions.php:460
+msgid "Front Page - FullWidth Bottom"
+msgstr "Forside - FullWidth Bottom"
+
+#: functions.php:462
+msgid ""
+"Widgets will appear in a single-column widget area at the bottom of your "
+"Front Page above the footer."
+msgstr ""
+"Widgetene vises i et omr&aring;de for enkeltkolonnewidget p&aring; bunnen av "
+"forsiden, men over bunntekst."
+
+#: functions.php:470
+msgid "Footer - 1"
+msgstr "Footer - 1"
+
+#: functions.php:472
+msgid "First widget area of the 5-column Footer widget area."
+msgstr ""
+"F&oslash;ste widgetomr&aring;de for 5-kolonners Footer (bunn) "
+"widgetomr&aringet."
+
+#: functions.php:480
+msgid "Footer - 2"
+msgstr "Footer - 2"
+
+#: functions.php:482
+msgid "Second widget area of the 5-column Footer widget area."
+msgstr ""
+"Andre widgetomr&aring;de for 5-kolonners Footer (bunn) widgetomr&aringet."
+
+#: functions.php:490
+msgid "Footer - 3"
+msgstr "Footer - 3"
+
+#: functions.php:492
+msgid "Third widget area of the 5-column Footer widget area."
+msgstr ""
+"Tredje widgetomr&aring;de for 5-kolonners Footer (bunn) widgetomr&aringet."
+
+#: functions.php:500
+msgid "Footer - 4"
+msgstr "Footer - 4"
+
+#: functions.php:502
+msgid "Fourth widget area of the 5-column Footer widget area."
+msgstr ""
+"Fjerde widgetomr&aring;de for 5-kolonners Footer (bunn) widgetomr&aringet."
+
+#: functions.php:510
+msgid "Footer - 5"
+msgstr "Footer - 4"
+
+#: functions.php:512
+msgid "Fifth widget area of the 5-column Footer widget area."
+msgstr ""
+"Femte widgetomr&aring;de for 5-kolonners Footer (bunn) widgetomr&aringet."
+
+#: functions.php:536
+msgid "<span>Previous Posts</span>"
+msgstr "<span>Forrige innlegg</span>"
+
+#: functions.php:537
+msgid "<span>Next Posts</span>"
+msgstr "<span>Neste innlegg</span>"
+
+#: functions.php:562
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Forrige innlegg</span>%title"
+
+#: functions.php:563
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Neste innlegg</span>%title"
+
+#: content-single.php:18
+msgid "Published on "
+msgstr "Publisert den"
+
+#: content-single.php:22 content.php:54
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: content-single.php:22 content-featured-post.php:33 content.php:54
+#: inc/widgets.php:248 inc/widgets.php:360 inc/widgets.php:475
+#: inc/widgets.php:592 inc/widgets.php:703
+msgid "comment 1"
+msgstr "Kommentarer 1"
+
+#: content-single.php:22 content-featured-post.php:33 content.php:54
+#: inc/widgets.php:248 inc/widgets.php:360 inc/widgets.php:475
+#: inc/widgets.php:592 inc/widgets.php:703
+msgid "comments %"
+msgstr "Kommentarer %"
+
+#: content-single.php:25 content-page.php:26 content.php:57 image.php:25
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-single.php:31
+#, php-format
+#| msgid "written by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgid ""
+"written by <span class=\"vcard\"><a class=\"url fn\" href=\"%1$s\" "
+"title=\"%2$s\">%3$s</a></span>"
+msgstr ""
+"skrevet av <span class=\"vcard\"><a class=\"url fn\" href=\"%1$s\" "
+"title=\"%2$s\">%3$s</a></span>"
+
+#: content-single.php:33 content-featured-post.php:25 content.php:25
+#: inc/widgets.php:242 inc/widgets.php:352 inc/widgets.php:467
+#: inc/widgets.php:583
+#, php-format
+msgid "All posts by %s"
+msgstr "Alle innlegg av %s"
+
+#: content-single.php:41 content-featured-post.php:15 content.php:14
+#: inc/widgets.php:53 inc/widgets.php:231 inc/widgets.php:342
+#: inc/widgets.php:347 inc/widgets.php:457 inc/widgets.php:462
+#: inc/widgets.php:571 inc/widgets.php:576 inc/widgets.php:687
+#: inc/widgets.php:695
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalenke til %s"
+
+#: content-single.php:49 content-page.php:20 content.php:41
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-single.php:57
+msgid "Filed under: "
+msgstr "Lagret i:"
+
+#: content-single.php:61
+msgid "Tagged with: "
+msgstr "Taget med:"
+
+#: content-single.php:67
+msgid "by "
+msgstr "av"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Beklager! Denne siden eksisterer ikke."
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+"S&oslash;ket ditt fikk ingen treff. Kanskje du skal pr&osslash;ve &aring; "
+"revidere søket ditt?"
+
+#: index.php:12
+msgid "Latest Posts"
+msgstr "Siste innlegg"
+
+#: archive.php:19
+#, php-format
+msgid "All posts filed under: %s"
+msgstr "Alle innlegg postet under: %s"
+
+#: archive.php:22
+#, php-format
+msgid "All posts tagged: %s"
+msgstr "Alle innlegg tagget med: %s"
+
+#: archive.php:25
+#, php-format
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: archive.php:28
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:31
+#, php-format
+msgid "Month: %s"
+msgstr "M&aring;ned: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+#, php-format
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Asides"
+msgstr "Bortsett fra"
+
+#: archive.php:40
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: archive.php:43 image.php:16
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:46
+msgid "Videos"
+msgstr "Filmer"
+
+#: archive.php:49
+msgid "Quotes"
+msgstr "Sitater"
+
+#: archive.php:52
+msgid "Links"
+msgstr "Lenker"
+
+#: archive.php:55
+msgid "Statuses"
+msgstr "Statuser"
+
+#: archive.php:58
+msgid "Audios"
+msgstr "Lydfiler"
+
+#: archive.php:61
+msgid "Chats"
+msgstr "Samtaler"
+
+#: archive.php:64
+msgid "Archives"
+msgstr "Arkiv"
+
+#: archive.php:89 search.php:31
+msgid "Nothing Found"
+msgstr "Ingenting ble funnet"
+
+#: archive.php:93
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Det ser ut som om vi ikke kan finne det du ser etter"
+
+#: content-featured-post.php:23 inc/widgets.php:465 inc/widgets.php:581
+#, php-format
+msgid "<span>by</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "<span>av</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: content-featured-post.php:33 inc/widgets.php:248 inc/widgets.php:360
+#: inc/widgets.php:475 inc/widgets.php:592 inc/widgets.php:703
+msgid "comments 0"
+msgstr "Kommentarer 0"
+
+#: comments.php:24
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 kommentar"
+msgstr[1] "%1s Kommentarer"
+
+#: comments.php:37
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:38
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Kommentarer er stoppet p&aring; dette innlegget"
+
+#: content.php:23 inc/widgets.php:350
+#, php-format
+msgid "Published by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "Publisert av <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: content.php:38
+msgid "Read More"
+msgstr "Les videre"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "S&oslash;eresultat: %s"
+
+#: search.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"S&oslashket ga ingen treff. Pr&oslashv &aring s&oslash;ke med andre ord."
+
+#: header.php:47
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:52 searchform.php:11
+msgid "Search"
+msgstr "S&oslash;k"
+
+#: header.php:59
+msgid "Close Menu"
+msgstr "Lukk Meny"
+
+#: footer.php:22
+msgid "Follow Us"
+msgstr "F&oslash;lg oss"
+
+#: footer.php:33
+msgid "Copyright"
+msgstr "Opphavsrett"
+
+#: footer.php:41
+msgid "Proudly powered by"
+msgstr "Drevet av "
+
+#: footer.php:41
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:41
+#, fuzzy
+#| msgid "WordPress."
+msgid "WordPress"
+msgstr "WordPress."
+
+#: footer.php:44
+#, fuzzy, php-format
+#| msgid "Theme: %1$s by %2$s."
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema av: %1$s by %2$s."
+
+#: content-archivemenu.php:14
+msgid "Filter Contents"
+msgstr "Filtrer innhold"
+
+#: content-archivemenu.php:18
+msgid "Close Contents"
+msgstr "Lukk innhold"
+
+#: content-archivemenu.php:21
+msgid "Years"
+msgstr "&Aring;r"
+
+#: content-archivemenu.php:31
+msgid "Authors"
+msgstr "Skribenter"
+
+#: content-archivemenu.php:45
+msgid "Filter by Month"
+msgstr "Filtrer p&aring; m&aring;ned"
+
+#: content-archivemenu.php:52
+msgid "Filter by Categories"
+msgstr "Filtrer etter kategorier"
+
+#: content-archivemenu.php:60
+msgid "Filter by Tags"
+msgstr "Filtrer etter tagger"
+
+#: image.php:81
+msgid "Next Image"
+msgstr "Neste bilde"
+
+#: image.php:82
+msgid "Previous Image"
+msgstr "Forrige bilde"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Type to search&hellip;"
+msgstr "Skriv inn s&oslashkeordet"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "S&oslash;k "
+
+#: inc/widgets.php:18
+msgid "Zuki: Recent Posts (Small 1)"
+msgstr "Zuki: Siste Innlegg (Liten 1)"
+
+#: inc/widgets.php:20
+msgid "Small Recents Posts widget with featured images."
+msgstr "Liten widget for Siste Innlegg med fremhevede bilder"
+
+#: inc/widgets.php:87 inc/widgets.php:171 inc/widgets.php:281
+#: inc/widgets.php:395 inc/widgets.php:511 inc/widgets.php:628
+#: inc/widgets.php:736 inc/widgets.php:810
+msgid "Title:"
+msgstr "Tittel:"
+
+#: inc/widgets.php:90 inc/widgets.php:174 inc/widgets.php:284
+#: inc/widgets.php:398 inc/widgets.php:514 inc/widgets.php:631
+#: inc/widgets.php:739
+msgid "Number of posts to show:"
+msgstr "Antall innlegg som skal vises:"
+
+#: inc/widgets.php:93
+msgid "Category slug (optional, separate multiple categories by comma):"
+msgstr "Category slug (valgfritt, komma mellom flere kategorier):"
+
+#: inc/widgets.php:111
+msgid "Zuki: Recent Posts (Small 2)"
+msgstr "Zuki: Siste Innlegg (Liten 2)"
+
+#: inc/widgets.php:113
+msgid "Small Recents Posts widget without featured images."
+msgstr "Liten widget for Siste Innlegg uten fremhevede bilder"
+
+#: inc/widgets.php:177 inc/widgets.php:287 inc/widgets.php:401
+#: inc/widgets.php:517 inc/widgets.php:634 inc/widgets.php:742
+msgid "Category slug (optional):"
+msgstr "Category slug (valgfritt):"
+
+#: inc/widgets.php:194
+msgid "Zuki: Recent Posts (Medium 1)"
+msgstr "Zuki: Siste Innlegg (Medium 1)"
+
+#: inc/widgets.php:196
+msgid "Medium-sized Recents Posts with featured image and excerpt."
+msgstr "Mellomstore Siste Innlegg med fremhevet bilde og utdrag."
+
+#: inc/widgets.php:240
+#, php-format
+msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "av <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: inc/widgets.php:306
+#, fuzzy
+#| msgid "Zuki: Recent Posts ( Medium 2)"
+msgid "Zuki: Recent Posts (Medium 2)"
+msgstr "Zuki: Siste Innlegg (Medium 2)"
+
+#: inc/widgets.php:308
+msgid ""
+"Medium-sized Recents Posts in a 2-column layout with featured image and "
+"excerpt."
+msgstr ""
+"Mellomstore Siste Innlegg i 2-kolonners layout med fremhevet bilde og utdrag."
+
+#: inc/widgets.php:420
+msgid "Zuki: Recent Posts (Big 1)"
+msgstr "Zuki: Siste Innlegg (Stor 1)"
+
+#: inc/widgets.php:422
+msgid ""
+"Big Recents Posts with an overlay excerpt text. Featured images must have a "
+"minimum size of 1200x800 pixel."
+msgstr ""
+"Stort Siste Innlegg med tekst i eget lag over bildet. Fremhevet bilde "
+"m&aring; være på minst 1200x800 pixler."
+
+#: inc/widgets.php:534
+msgid "Zuki: Recent Posts (Big 2)"
+msgstr "Zuki: Siste Innlegg (Stor 2)"
+
+#: inc/widgets.php:536
+msgid ""
+"Big Recents Posts with featured image and a 2-column excerpt. Featured "
+"images must have a minimum size of 1200x800 pixel."
+msgstr ""
+"Stort Siste Innlegg med tekst i 2 kolonner. Fremhevet bilde m&aring; være på "
+"minst 1200x800 pixler."
+
+#: inc/widgets.php:651
+msgid "Zuki: Recent Posts (Background)"
+msgstr "Zuki: Siste Innlegg (Bakgrunn)"
+
+#: inc/widgets.php:653
+msgid "Medium-sized Recents Posts with a background color."
+msgstr "Mediumstor Siste Innlegg med bakgrunnsfarge."
+
+#: inc/widgets.php:761
+msgid "Zuki: Quote"
+msgstr "Zuki: Sitat"
+
+#: inc/widgets.php:763
+msgid "A big quote or text slogan."
+msgstr ""
+
+#: inc/widgets.php:815
+msgid "Quote Text:"
+msgstr "Sitat: "
+
+#: inc/widgets.php:820
+msgid "Quote Author (optional):"
+msgstr "Opphav for sitat (valgfritt):"
+
+#: inc/customizer.php:21
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/customizer.php:38
+msgid "Link Color"
+msgstr "Link farge"
+
+#: inc/customizer.php:49
+msgid "Zuki Recent Posts Widget Background Color"
+msgstr "Bakgrunnsfarge for Zuki Recent Post widget"
+
+#: inc/customizer.php:60
+msgid "Header Archive Background Color"
+msgstr "Bakgrunndarge for Header Archive"
+
+#: inc/customizer.php:72
+msgid "Hide Featured Image on single posts"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Show Header Search"
+msgstr "Vis Header Search (topps&oslash;k)"
+
+#: inc/customizer.php:96
+msgid "Show Header Archive Area"
+msgstr "Vis Header Archive omr&aring;de"
+
+#: inc/customizer.php:108
+msgid "Header Archive Title"
+msgstr "Tittel for Header Archive"
+
+#: inc/customizer.php:120
+msgid "Footer Social Menu Title"
+msgstr "Tittel for Footer sosial meny "
+
+#: inc/customizer.php:132
+msgid "Footer Credit Text"
+msgstr "Bunntekst Footer"
+
+#: inc/jetpack.php:30
+msgid ""
+"The featured content slider displays at the top of the Front Page template."
+msgstr "Featured content slider vises p%aring; toppen av Forsidemal"
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#. Name of the theme
+msgid "Zuki"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Zuki is an elegant, modern and flexible Magazine theme with a custom front "
+"page and a default blog layout. With Zukis multiple Recent Posts widgets and "
+"the Front page widget areas it's easy to create a Magazine-style blog in "
+"just a few, simple steps."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.elmastudio.de/en/themes/zuki/"
+msgstr ""
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.elmastudio.de/en/"
+msgstr ""
+
+msgid ""
+"<strong>%s</strong> supports automatic updates using WordPress' update "
+"mechanism. To use this feature you need to activate the theme using your "
+"Product Key, which can be found in your Elmastudio account dashboard. The "
+"theme stays fully functional without activation and still can be updated "
+"manually. %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+msgid " Activation"
+msgstr ""
+
+msgid " Product Key Activation"
+msgstr ""
+
+msgid "Product Key Activation"
+msgstr ""
+
+msgid "Product Key Deactivation"
+msgstr ""
+
+msgid "Product Key"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "Product Key Status"
+msgstr ""
+
+msgid "Deactivate Product Key"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid ""
+"Connection failed to the Elmastudio server. Try again later. There may be a "
+"problem on your server preventing outgoing requests."
+msgstr ""
+
+msgid "Product Key deactivated."
+msgstr ""
+
+msgid ""
+"The Product Key could not be deactivated. Use the Product Key Deactivation "
+"tab to manually deactivate the Product Key before activating a new Product "
+"Key."
+msgstr ""
+
+msgid "Deactivates an Product Key so it can be used on another blog."
+msgstr ""
+
+msgid "%s activated."
+msgstr ""
